@@ -6,12 +6,12 @@
 (c) Copyright 2018,2019. [es-mx: Derechos Reservados 2018,2019.]
 Author nickname: lu1s.
 The author and company holds and reserves the rights of the content of this document.
-All public repositories and documents will be published at https://github.com/lu1s/iot-tov-v1 unless
+All public repositories and documents will be published at https://github.com/lu1salways/iot-tov-v1 unless
 otherwise expressed in a future version of this document.
 
 K_DOCUMENT_TITLE: "+LKNC$: Crypto warranty and transfer of value interface for connected devices."
 
-lkn.sign.201811120000916590000.e3434.
+lu1s.s1gn.201901050002357590000.e3434.e22.nl.eom.
 ```
 
 ## IETF key words disclaimer
