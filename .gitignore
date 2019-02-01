@@ -6,3 +6,5 @@ _pre*
 _terms.src.d/*.sh
 *.pdf
 *.sh
+*.backup
+
