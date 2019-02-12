@@ -73,7 +73,7 @@ _The key words listed here are unordered and presented in form of a draft_
 | IoV \(IoTVe\) | Internet of Vehicles | An IoT device that is Installed \(kev:cinstall\) in a Vehicle and that if other IoT devices are also installed in the same vehicle then it is the one that serves as the main controller or conciliator device for the proper communication of the vehicle with the Internet and that its Owner \(KIAM\), or Device Responsible Entity \(KDRE\) has already provided consent and Proof of Knowledge of the Terms and Conditions and Privacy Policy of its Service. For a vehicle to be considered as so for an installation and functioning of an IoV, it must be a device or artifact that complies with the laws, legislations, terms and conditions, privacy policies, corporate and civil agreements and human rights common sense considerations of the States in which it is pretended to be functioning. |
 | IoTv \(IoTTv\) | Internet of Televisions | An IoT device that is embedded or is part or is a Television device and that the persons who are watching it while it is displaying content and connected to the Internet or Network at the same time is subject to the terms, conditions and privacy policies specially created for that matter and are not invasive nor violative of human rights. |
 | IoMD \(IoTMD\) | Internet of Medical Devices | An IoT device that is embedded or installed in a LNCMD and that complies with all the regulations and MRQ previously needed to be a LKMD that works within the +LKNC$ ecosystem; and that by definition it must include a IoMD. All the LKMD must include a IoMD to be considered a LKMD. |
-| LNCMD \(LNKMD\) | Lucky Network `KClassifiedCertified` Medical Device | The `LNCMD` \(Lucky Network Certified and Classified Medical Device\), also named `LNKMD` \(Lucky Network K Medical Device\) is a `K grade` certified secure device that processes, stores, transmits and receives `Medical Data`. The processing, storing, transmitting and receiving of medical data is also known in the +LKNC$ ecosystem as `"MedKData"`. All the `MedKData` must comply with the MRQ of the same, and must comply with `HIPAA`, `PCI` and the current `"most strict"` `"worldwide"` medical data handling regulations. The LNSCT and LNSCTVA will always work in efforts to bringing the highest standards of security to the `MedKData` `protocol`. |
+| LNCMD \(LNKMD\) | F Atom `KClassifiedCertified` Medical Device | The `LNCMD` \(F Atom Certified and Classified Medical Device\), also named `LNKMD` \(F Atom K Medical Device\) is a `K grade` certified secure device that processes, stores, transmits and receives `Medical Data`. The processing, storing, transmitting and receiving of medical data is also known in the +LKNC$ ecosystem as `"MedKData"`. All the `MedKData` must comply with the MRQ of the same, and must comply with `HIPAA`, `PCI` and the current `"most strict"` `"worldwide"` medical data handling regulations. The LNSCT and LNSCTVA will always work in efforts to bringing the highest standards of security to the `MedKData` `protocol`. |
 | MedKData | `MedKData protocol` | CLASSIFIED TERM THAT CONSISTS OF A SECURE AND CLASSIFIED PROTOCOL OF DATA TRANSMISSION. |
 | ToV | Transfer of Value | CLASSIFIED TERM THAT CONSISTS OF TRANSMITING OR TX OR RX VALUE OR THE CLASSIFIED K ATOM. |
 | UoV | Unit of Value | This is the most atomic unit of the +LKNC$ that can be used for Transfer of Value. The UoV can not be changed in an existing working $KLNC$ ecosystem. If a radical change like replacing the original UoV then a whole new +LKNC$ ecosystem would need to be enabled for the new UoV to start functioning, and the past +LKNC$ in which the old UoV used to live shall gradually and in an optimal way migrate to the new +LKNC$ through one or more LKNCTEs. |
@@ -131,15 +131,7 @@ _The units of value shown here are just for demonstrative purposes until this me
         BoO:
         VoO:  1
         SoO:  
-        IPoRA_LKSOID: 
-
-
-
-
-
-
-
-
+        IPoRA_LKSOID:
 * $USD  United States Dollar
         CoO:  UNITED_STATES_OF_AMERICA
         BoO:  THE_FEDERAL_RESERVE (TBD: $$INDEX.O$$)
@@ -193,8 +185,8 @@ The investment is considered as a mix of money and time. For a ROI we consider t
 
 ## Particular Groups
 
-* LNSCTC:   Lucky Network Source Code Trust Commitee.
-* LNSCTCVA: Lucky Network Source Code Trust Commitee Validation Association.
+* FAtSCTC:   F Atom Source Code Trust Commitee.
+* FAtSCTCVA: F Atom Source Code Trust Commitee Validation Association.
 
 ## Particular LKSO Terms and Abbreviations
 
