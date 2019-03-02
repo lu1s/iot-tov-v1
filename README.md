@@ -1,4 +1,4 @@
-# A Crypto-warranty and Transfer of Value Interface for Connected Devices
+ux# A Crypto-warranty and Transfer of Value Interface for Connected Devices
 
 ## Disclaimer about this document
 
@@ -30,21 +30,21 @@ The citizenship of the author or authors is classified yet it will be declassifi
 
 ## Preamble
 
-In recent years the global growth in matter of many topics including and emphasizing the technological ones has been circumnstantially big, and as a natural and also circumnstantial effect it has also created bigger challenges for the leaders of public and private organizations for them to enable and share those technological achievements of the human kind, with their own ecosystems and entities, and with the ones whom they relate with.
+In recent years the global growth in matter of many topics including and emphasizing the technological ones has been circumnstantially big, and as a natural and also circumnstantial effect it has also created bigger challenges for the leaders of public and private organizations for them to enable and share those technological achievements of the human kind, with their own ecosystems and entities, and with the ones of whom they relate with.
 
-The work presented here is a compilation of efforts, ideas, code bases, business models, terms, conditions, privacy policies, licenses and other informations that as a whole they represent secure technology for a fair enhancement of health and wellness of an economy.
+The work presented here is a compilation of efforts, ideas, code bases, business models, terms, conditions, privacy policies, licenses and other informations that, as a whole, they represent secure technology for a fair enhancement of health and wellness of an economy and the economy as a whole.
 
-Within this document, a State or Country is any Sovereign Entity that with the appropiate terms, conditions, privacy policies, licenses and a Currency Emissor Approved Assembly \(CEAA\), or an Entity which serves as so; it is capable of building and maintaining a fair and stable ecosystem and thus a healthier and more fairly distributed economy.
+Within this document, a State or Country is any Sovereign Entity that, with the appropiate terms, conditions, privacy policies, licenses and a Currency Emissor Approved Assembly \(CEAA\), or an Entity which serves as so; it is capable of building and maintaining a fair and stable ecosystem and thus a healthier and more fairly distributed economy.
 
-As an example, and in the particular case of México \(the Country; as a whole Set of Connected States\), the CEAA is today\[1\] the "Bank of Mexico" \(also known as "Banco de México" or "BoM"\). The BoM is the Entity in charge of all the currency emission, recycling and control within the country and for the countrie's interests.
+As an example, and in the particular case of México \(the Country; as a whole Set of Connected States\), the CEAA is today\[1\] the "Bank of Mexico" \(also known as "Banco de México" or "BoM" or "BdM"\). The BoM is the Entity in charge of all the currency emissions, recycling and control within the country and for the interests of the same.
 
 _\[1\] Today as of 201812100002136190000, and invalidated if wrong._
 
 The following projects are the first demonstrations of MVV of multiple integrated MVPs that comply with the MRQ each of them so that at the end the full CoVA the ToV can be demonstrated in "real time" by a complete and conciliated set of PoAVs between the SIO and the SEUs providing sufficient MRS for the prevention and detention of misuse of the described crypto warranties.
 
-## Broad concepts and entities
+## Basic concepts and entities
 
-_The key words listed here are unordered and presented in form of a draft_
+_The key words listed here are unordered and presented in form of a draft._
 
 | Acronym | Name | Description |
 | :--- | :--- | :--- |
@@ -63,6 +63,7 @@ _The key words listed here are unordered and presented in form of a draft_
 | DRFCC | Draft of RFC that is Clean \(without Errata\) |  |
 | PRFC | Published RFC \(Internet Standard\) |  |
 | DoH | DNS-over-HTTPS | Standarized format and protocol for sending Domain Name System \(DNS\) queries through HTTP rather than the traditional DNS protocol \(RFC-8484\). |
+| DoS | Denial of Service | The Denial of Service is a technique that could be applied either from an ISP, an attacker, a government or another entity that consists of interrupting a service temporarly or permanently. |
 | PoK | Proof of Knowledge | The PoK is a valid proof that certain expected knowledge is conceived by one or more individual entities. |
 | RPoHC | Real Proof of Human Consent | The RPoHC is a valid proof that enforces respect of human rights within the ecosystem and that consists of the human actor being concious about the decisions that she is capable of making regarding something in particular. |
 | EFF | Electronic Frontier Foundation |  |
@@ -77,8 +78,7 @@ _The key words listed here are unordered and presented in form of a draft_
 | MedKData | `MedKData protocol` | CLASSIFIED TERM THAT CONSISTS OF A SECURE AND CLASSIFIED PROTOCOL OF DATA TRANSMISSION. |
 | ToV | Transfer of Value | CLASSIFIED TERM THAT CONSISTS OF TRANSMITING OR TX OR RX VALUE OR THE CLASSIFIED K ATOM. |
 | UoV | Unit of Value | This is the most atomic unit of the +LKNC$ that can be used for Transfer of Value. The UoV can not be changed in an existing working $KLNC$ ecosystem. If a radical change like replacing the original UoV then a whole new +LKNC$ ecosystem would need to be enabled for the new UoV to start functioning, and the past +LKNC$ in which the old UoV used to live shall gradually and in an optimal way migrate to the new +LKNC$ through one or more LKNCTEs. |
-| EUoV | External Unit of Value | An EUoV is any other currency or unitary value representation of ponderation which is different from the UoV of the +LKNC$ ecosystem but that can interact with the +LKNC$ through a LKNCTE. For example, if the UoV of the +LKNC$ "Zion" is "Euro", and a LKNCTE offers entrance to the +LKNC$ with "Sterlin Pounds", then the "Sterlin Pound" is considered as a EUoV while the "Euro" is considered as the UoV. |
-| CoToV | Contract of Transfer of Value | CLASSIFIED TERM THAT CONSISTS OF A K CONTRACT OR SMART CONTRACT OR CONTRACT OR SET OF TERMS, CONDITIONS, PRIVACY POLICIES, ACCEPTATION AGREEMENT AND PROOF OF KNOWLEDGE OF AN AUTHORITATIVE AND SIGNED CLASSIFIED KLUCK SMART CONTRACT. |
+| CoToV | Contract of Transfer of Value | CLASSIFIED TERM THAT CONSISTS OF A K CONTRACT OR SMART CONTRACT OR CONTRACT OR SET OF TERMS, CONDITIONS, PRIVACY POLICIES, ACCEPTATION AGREEMENT AND PROOF OF KNOWLEDGE OF A DETERMINED TRANSFER OF VALUE ACTION. |
 | ToToV | Timestamp of Transfer of Value |  |
 | KSTATE | The K State | All and every Device that interacts with the +LKNC$ weather it is enabled to transact or only to read, exists and is on one and only one of the States that are part of the set of States of he +LKNC$ Finite State Ecosystem. |
 | KFSES | +LKNC$ Finite State Ecosystem State Set | The State Set of the +LKNC$ Sinite State Ecosystem includes all and every possible KSTATE that the Device can "be in". "Being in" a State is an abstract concept and in the case scenario of the $LKNC$ ecosystem only the Devices that are able to transact \(the KIoT devices\) can "be in" a State. All other Devices or devices that in a way interact with the +LKNC$ can be in a state and will be identified as so but they will not have the ability either to "be in" a State or to transact within the +LKNC$ ecosystem. Instead, those Devices or devices will be only able to read the +LKNC$ transactions and to interact in the Public +LKNC$ Pool that is fully separated from the ToV +LKNC$ ecosystem. The Devices or devices that are not able to "be in" a State, will be able to transact within the ToV +LKNC$ ecosystem only through a LKNCTE. |
