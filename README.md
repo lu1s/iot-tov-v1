@@ -11,7 +11,8 @@ otherwise expressed in a future version of this document.
 
 K_DOCUMENT_TITLE: "+LKNC$: Crypto warranty and transfer of value interface for connected devices."
 
-lu1s.s1gn.201901050002357590000.e3434.e22.nl.eom.
+SOSSIG.pulidoman.s1gn.2019.Q1.20190301000205522000070105511.E34.E22.EOSSIG.
+- 7P1GgOUxxYtIaSrNVAYhFVCeCBJWTTY2YmzLHTXE9JXVVjf2ybnvYRGZOjUretxd -
 ```
 
 ## IETF key words disclaimer
@@ -72,6 +73,11 @@ _The key words listed here are unordered and presented in form of a draft._
 | IoH \(IoTH\) | Internet of Humans | An IoT device that is installed in a human being with its consent and knowledge by their respective RPOHC, and PoK of the ToS, conditions and privacy policies. |
 | IoA \(IoTA\) | Internet of Animals | An IoT device that is installed in an living being that is not human and that is not listed as a restricted IoA living being and that its oficially responsible Human has already provided consent and Proof of Knowledge of the Terms and Conditions and Privacy Policy of its Service. |
 | IoV \(IoTVe\) | Internet of Vehicles | An IoT device that is Installed \(kev:cinstall\) in a Vehicle and that if other IoT devices are also installed in the same vehicle then it is the one that serves as the main controller or conciliator device for the proper communication of the vehicle with the Internet and that its Owner \(KIAM\), or Device Responsible Entity \(KDRE\) has already provided consent and Proof of Knowledge of the Terms and Conditions and Privacy Policy of its Service. For a vehicle to be considered as so for an installation and functioning of an IoV, it must be a device or artifact that complies with the laws, legislations, terms and conditions, privacy policies, corporate and civil agreements and human rights common sense considerations of the States in which it is pretended to be functioning. |
+
+### Vehicles And Physical Movil Internets
+| Acronym | Name | Description |
+| :--- | :--- | :--- |
+| IoBi \(IoTSBikes\) | Internet of Bicycles | An IoT device that is Installed \(kev:cinstall\) in a Vehicle and that if other IoT devices are also installed in the same vehicle then it is the one that serves as the main controller or conciliator device for the proper communication of the vehicle with the Internet and that its Owner \(KIAM\), or Device Responsible Entity \(KDRE\) has already provided consent and Proof of Knowledge of the Terms and Conditions and Privacy Policy of its Service. For a vehicle to be considered as so for an installation and functioning of an IoBi, it must be a device or artifact that complies with the laws, legislations, terms and conditions, privacy policies, corporate and civil agreements and human rights common sense considerations of the States in which it is pretended to be functioning. A State must be fully understood as an state in a State Machine as for a `XKXSmartContract` from the Beginning to the End. |
 | IoTv \(IoTTv\) | Internet of Televisions | An IoT device that is embedded or is part or is a Television device and that the persons who are watching it while it is displaying content and connected to the Internet or Network at the same time is subject to the terms, conditions and privacy policies specially created for that matter and are not invasive nor violative of human rights. |
 | IoMD \(IoTMD\) | Internet of Medical Devices | An IoT device that is embedded or installed in a LNCMD and that complies with all the regulations and MRQ previously needed to be a LKMD that works within the +LKNC$ ecosystem; and that by definition it must include a IoMD. All the LKMD must include a IoMD to be considered a LKMD. |
 | LNCMD \(LNKMD\) | Lucky Network `KClassifiedCertified` Medical Device | The `LNCMD` \(Lucky Network Certified and Classified Medical Device\), also named `LNKMD` \(Lucky Network K Medical Device\) is a `K grade` certified secure device that processes, stores, transmits and receives `Medical Data`. The processing, storing, transmitting and receiving of medical data is also known in the +LKNC$ ecosystem as `"MedKData"`. All the `MedKData` must comply with the MRQ of the same, and must comply with `HIPAA`, `PCI` and the current `"most strict"` `"worldwide"` medical data handling regulations. The LNSCT and LNSCTVA will always work in efforts to bringing the highest standards of security to the `MedKData` `protocol`. |
@@ -132,14 +138,6 @@ _The units of value shown here are just for demonstrative purposes until this me
         VoO:  1
         SoO:  
         IPoRA_LKSOID: 
-
-
-
-
-
-
-
-
 * $USD  United States Dollar
         CoO:  UNITED_STATES_OF_AMERICA
         BoO:  THE_FEDERAL_RESERVE (TBD: $$INDEX.O$$)
