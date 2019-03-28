@@ -1,5 +1,6 @@
 *.klangs*
 *.swp
+.*sum
 .archive/*
 __readme.d/
 _pre*
@@ -8,15 +9,6 @@ _terms.src.d/*.sh
 *.sh
 *.backup
 
-touchefile
 toushefile
-lasalraw
 lksoid
 ok
-ko
-aok
-
-.th3gitignore
-.agitignore
-
-.*.chachasum
