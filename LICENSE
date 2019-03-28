@@ -1,8 +1,11 @@
+SOF
+SOSXSLICENSE
 ## This is The License that includes thee parts:
 ### A. The License Certificate generated with nanoentropy
 ### B. The License Content
 ### C. The Warranty, if found, about the responsibilities of the software
 ###    itself, its usage and the disclaimers or rights bindings.
+SOCERT
 343422soidelpolisheoid201910221092125N576079059N34343434343434343434222234343
 cPG6VWAbVXBY3wRuxl7TCypJ4SSMB0QA96WUI9o1qgFbWZcnTE1drFkLaehDoFroSmXJeT0WZe1Qt
 F7plCrn8VTilBbGpokapaA8aaZow5nWSbb547LLjhWcyeGXv1DSFIFQjBaEvQok9ZDYdzY6ibd7YH
@@ -81,17 +84,15 @@ SVDQuPEfAg3t4q9qsEpWSr7atN1AreJ4QMTnSvF9o4LRLktFmgUSWUroO0Q9YuwdJsHZxFh7Cjpxo
 A4WcCcV02ffneAirFTMB9f942wVe4hQCErkvpqpeYdU3mm6c9YimGKzd6eySKmeyvzAIPl3sAdkg5
 Jd9ycSHbawJC8ZZPh9ST4mN82EpVyhICMSPaVCjaOTYIFbURjPRUeIfNbtaHUwVobr9WC0qeXr0Pt
 rPS0oo6s52nwPykdnxTiYtwyt5dwOkFvGJZq9yfd4ofIpI6CNA3y7eUBSUm7p35lY2WZPRpnpQeUl
-#### #### ### #### ### #### #### #### #######################################
-## ### #### #########     #  ################################################
-##      #      #    #      # #        # #     # #    ########################
-############################# ### #### ############### ### #### #############
-############################################# SOFLICENCIAPULIDO #############
+EOCERT
+SOINFO
 This is the Legal Binding of the Software that is provided to You and that
 You are accepting by downloading, copying, acquiring or implementing the
 technologies found within this directory.
-###################################################### ### #### #############
 For an unwarrantied version of this software please be kind to read and use
 the following license:
+EOINFO
+SOLICENSE
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
@@ -766,13 +767,13 @@ may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
-### #### ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ##
-################################################################################
+EOLICENSE
+SOEINFO
 There is no warrantied version of this software and thus that is why a warranty
 will not be found within this License File.
 public.unsigned.201902240001038590000.e3434.e22.eom.
-################################################################################
-### #### ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ##
+EOEINFO
+SOIINFO
 If a Warrantied Version of the software is found here, you will find a microcert
 in the following lines:
 SOEMC
@@ -781,4 +782,6 @@ EOEMC
 If between the above lines no certificate is found, then please be adviced that
 any Warranty is valid, even when the full or partial warranties are found in this
 license file or other derivated files.
-################################################################################
+EOIINFO
+EOSXSLICENSE
+EOF
