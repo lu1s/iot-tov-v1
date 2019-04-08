@@ -1,8 +1,10 @@
 *.klangs*
 *.swp
+.*sum
 .archive/*
 __readme.d/
 _pre*
-_terms.src.d/*.sh
 *.pdf
-*.sh
+*.backup
+*.id
+*.kiam
